@@ -1,5 +1,6 @@
-# cakephp-locale-selector-middleware
+# cakephp-marketplace
 [![LICENSE](https://img.shields.io/github/license/smartsolutionsitaly/cakephp-markeplace.svg)](LICENSE)
+[![packagist](https://img.shields.io/badge/packagist-smartsolutionsitaly%2Fcakephp--marketplace-brightgreen.svg)](https://packagist.org/packages/smartsolutionsitaly/cakephp-marketplace)
 [![issues](https://img.shields.io/github/issues/smartsolutionsitaly/cakephp-markeplace.svg)](https://github.com/smartsolutionsitaly/cakephp-markeplace/issues)
 [![CakePHP](https://img.shields.io/badge/CakePHP-3.6%2B-brightgreen.svg)](https://github.com/cakephp/cakephp)
 
