@@ -1,6 +1,6 @@
 <?php
 /**
- * Dress Finder (https://www.dressfinder.it)
+ * cakephp-markeplace (https://www.dressfinder.it)
  * Copyright (c) 2019 Smart Solutions S.r.l. (https://smartsolutions.it)
  *
  * Licensed under The MIT License

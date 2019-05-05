@@ -6,6 +6,14 @@
 
 Marketplace helpers for [CakePHP](https://github.com/cakephp/cakephp)
 
+## Installation
+
+You can install _cakephp-markeplace_ into your project using [Composer](https://getcomposer.org).
+
+``` bash
+$ composer require smartsolutionsitaly/cakephp-markeplace
+```
+
 ## License
 Licensed under The MIT License
 For full copyright and license information, please see the [LICENSE](LICENSE)
