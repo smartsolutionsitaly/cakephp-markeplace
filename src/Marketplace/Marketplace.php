@@ -42,7 +42,7 @@ abstract class Marketplace
      */
     public static function create(string $provider)
     {
-        $object = '\\SmartSolutionsItaly\\CakePHP\\Marketplace\\' . $provider . 'Marketplace';
+        $object = '\\SmartSolutionsItaly\\CakePHP\\Marketplace\\Provider\\' . $provider . 'Marketplace';
 
         if (class_exists($object)) {
             return new $object();
