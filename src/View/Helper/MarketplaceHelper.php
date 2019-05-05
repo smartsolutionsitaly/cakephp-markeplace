@@ -16,7 +16,7 @@
  * @since     1.0.0
  */
 
-namespace SmartSolutionsItaly\CakePHP\Helper;
+namespace SmartSolutionsItaly\CakePHP\Marketplace\View\Helper;
 
 use SmartSolutionsItaly\CakePHP\Marketplace\Marketplace;
 use Cake\View\Helper;
