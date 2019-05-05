@@ -1,5 +1,5 @@
 {
-	"name" : "smartsolutionsitaly/cakephp-markeplace",
+	"name" : "smartsolutionsitaly/cakephp-marketplace",
 	"description" : "Helpers for marketplaces.",
 	"keywords" : [
 		"cakephp",
@@ -16,7 +16,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"SmartSolutionsItaly\\CakePHP\\Markeplace\\" : "src"
+			"SmartSolutionsItaly\\CakePHP\\Marketplace\\" : "src"
 		}
 	},
 	"autoload-dev" : {

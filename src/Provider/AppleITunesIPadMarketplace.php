@@ -1,6 +1,6 @@
 <?php
 /**
- * cakephp-markeplace (https://www.dressfinder.it)
+ * cakephp-marketplace (https://www.dressfinder.it)
  * Copyright (c) 2019 Smart Solutions S.r.l. (https://smartsolutions.it)
  *
  * Licensed under The MIT License
@@ -8,7 +8,7 @@
  * Redistributions of files must retain the above copyright notice.
  *
  * @category  cakephp-plugin
- * @package   cakephp-markeplace
+ * @package   cakephp-marketplace
  * @author    Lucio Benini <dev@smartsolutions.it>
  * @copyright 2019 Smart Solutions S.r.l. (https://smartsolutions.it)
  * @license   https://opensource.org/licenses/mit-license.php MIT License
