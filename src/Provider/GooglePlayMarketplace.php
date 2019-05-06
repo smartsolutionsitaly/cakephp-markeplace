@@ -1,6 +1,6 @@
 <?php
 /**
- * cakephp-marketplace (https://www.dressfinder.it)
+ * cakephp-marketplace (https://github.com/smartsolutionsitaly/cakephp-marketplace)
  * Copyright (c) 2019 Smart Solutions S.r.l. (https://smartsolutions.it)
  *
  * Licensed under The MIT License
