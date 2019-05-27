@@ -1,43 +1,44 @@
 {
-	"name" : "smartsolutionsitaly/cakephp-marketplace",
-	"description" : "Helpers for marketplaces.",
-	"keywords" : [
-		"cakephp",
-		"marketplace"
-	],
-	"type" : "cakephp-plugin",
-	"license" : "MIT",
-	"require" : {
-		"ext-intl" : "*",
-		"smartsolutionsitaly/cakephp-locale-type" : "^1.0"
-	},
-	"require-dev" : {
-		"cakephp/cakephp" : "^3.6"
-	},
-	"autoload" : {
-		"psr-4" : {
-			"SmartSolutionsItaly\\CakePHP\\Marketplace\\" : "src"
-		}
-	},
-	"autoload-dev" : {
-		"psr-4" : {
-			"SmartSolutionsItaly\\CakePHP\\Test\\" : "tests",
-			"Cake\\Test\\" : "./vendor/cakephp/cakephp/tests"
-		}
-	},
-	"homepage" : "https://github.com/smartsolutionsitaly/cakephp-marketplace",
-	"authors" : [
-		{
-			"name" : "Lucio Benini",
-			"email" : "dev@smartsolutions.it",
-			"homepage" : "https://smartsolutions.it",
-			"role" : "Web Developer"
-		}
-	],
-	"support" : {
-		"email" : "info@smartsolutions.it",
-		"issues" : "https://github.com/smartsolutionsitaly/cakephp-marketplace/issues",
-		"wiki" : "https://github.com/smartsolutionsitaly/cakephp-marketplace/wiki",
-		"source" : "https://github.com/smartsolutionsitaly/cakephp-marketplace"
-	}
+  "name" : "smartsolutionsitaly/cakephp-marketplace",
+  "description" : "Helpers for marketplaces.",
+  "keywords" : [
+    "cakephp",
+    "marketplace"
+  ],
+  "type" : "cakephp-plugin",
+  "license" : "MIT",
+  "require" : {
+    "php": "^7.0",
+    "ext-intl" : "*",
+    "smartsolutionsitaly/cakephp-locale-type" : "^1.0"
+  },
+  "require-dev" : {
+    "cakephp/cakephp" : "^3.6"
+  },
+  "autoload" : {
+    "psr-4" : {
+      "SmartSolutionsItaly\\CakePHP\\Marketplace\\" : "src"
+    }
+  },
+  "autoload-dev" : {
+    "psr-4" : {
+      "SmartSolutionsItaly\\CakePHP\\Marketplace\\Test\\" : "tests",
+      "Cake\\Test\\" : "./vendor/cakephp/cakephp/tests"
+    }
+  },
+  "homepage" : "https://github.com/smartsolutionsitaly/cakephp-marketplace",
+  "authors" : [
+    {
+      "name" : "Lucio Benini",
+      "email" : "dev@smartsolutions.it",
+      "homepage" : "https://smartsolutions.it",
+      "role" : "Web Developer"
+    }
+  ],
+  "support" : {
+    "email" : "info@smartsolutions.it",
+    "issues" : "https://github.com/smartsolutionsitaly/cakephp-marketplace/issues",
+    "wiki" : "https://github.com/smartsolutionsitaly/cakephp-marketplace/wiki",
+    "source" : "https://github.com/smartsolutionsitaly/cakephp-marketplace"
+  }
 }

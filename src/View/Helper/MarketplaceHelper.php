@@ -18,8 +18,8 @@
 
 namespace SmartSolutionsItaly\CakePHP\Marketplace\View\Helper;
 
-use SmartSolutionsItaly\CakePHP\Marketplace\Marketplace;
 use Cake\View\Helper;
+use SmartSolutionsItaly\CakePHP\Marketplace\Marketplace;
 
 /**
  * Provides features for marketplaces.
